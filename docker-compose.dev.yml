@@ -129,4 +129,4 @@ volumes:
 
 networks:
   default:
-    name: knowledge-drift-network
+    name: ${COMPOSE_PROJECT_NAME:-skillgauge-ai-network}

@@ -1,4 +1,4 @@
-# AI Knowledge Drift Detector for Engineering Teams
+# SkillGauge AI - AI Knowledge Drift Detector
 
 A production-grade system that automatically detects and explains discrepancies between engineering documentation, code implementation, and production behavior.
 

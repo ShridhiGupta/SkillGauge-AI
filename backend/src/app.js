@@ -17,6 +17,8 @@ const alertRoutes = require('./routes/alerts');
 const dashboardRoutes = require('./routes/dashboard');
 const analysisRoutes = require('./routes/analysis');
 
+// Initialize Express app for SkillGauge AI
+
 // Initialize Express app
 const app = express();
 const server = createServer(app);

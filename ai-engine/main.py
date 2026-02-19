@@ -14,7 +14,7 @@ from services.drift_detection_service import DriftDetectionService
 from services.scoring_service import ScoringService
 
 app = FastAPI(
-    title="AI Knowledge Drift Detector",
+    title="SkillGauge AI",
     description="AI engine for detecting knowledge drift",
     version="1.0.0"
 )
