@@ -1,36 +1,69 @@
 # Dependencies
 node_modules/
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
 
-# Production builds
-/frontend/build
-/backend/dist
-/ai-engine/__pycache__/
-/ai-engine/*.pyc
-/ai-engine/*.pyo
-/ai-engine/.pytest_cache/
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
 
-# Environment variables
-.env
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
 
 # Logs
 logs/
 *.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
 
 # Runtime data
-pids/
+pids
 *.pid
 *.seed
 *.pid.lock
 
 # Coverage directory used by tools like istanbul
 coverage/
+*.lcov
+
+# nyc test coverage
+.nyc_output
 
 # Dependency directories
 jspm_packages/
@@ -41,12 +74,6 @@ jspm_packages/
 # Optional eslint cache
 .eslintcache
 
-# Microbundle cache
-.rpt2_cache/
-.rts2_cache_cjs/
-.rts2_cache_es/
-.rts2_cache_umd/
-
 # Optional REPL history
 .node_repl_history
 
@@ -55,6 +82,13 @@ jspm_packages/
 
 # Yarn Integrity file
 .yarn-integrity
+
+# dotenv environment variables file
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
 
 # parcel-bundler cache (https://parceljs.org/)
 .cache
@@ -84,57 +118,20 @@ jspm_packages/
 # Stores VSCode versions used for testing VSCode extensions
 .vscode-test
 
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
-env/
-venv/
-ENV/
-env.bak/
-venv.bak/
-
-# IDEs
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
-
-# OS generated files
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
-
-# Docker
-.dockerignore
-
 # Database
 *.sqlite
 *.db
 
-# Uploads and temporary files
-uploads/
-temp/
-tmp/
+# Vector database data
+chroma_data/
+ollama_data/
 
-# Ollama models (large files, better to pull separately)
-ollama_models/
+# Docker
+.dockerignore
 
-# Understanding guide (contains interview prep content)
+# Understanding file (keep private)
 understanding.md
 
-# Test artifacts
-test-results/
-coverage.xml
-junit.xml
-
-# Local development
-.local/
-local/
+# Temporary files
+tmp/
+temp/
