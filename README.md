@@ -141,7 +141,7 @@ Vector DB + Relational DB
 4. **Multi-Source Correlation**: Comprehensive knowledge validation
 5. **Real-Time Processing**: Immediate drift detection
 
-## 📈 Future Extensions
+## Future Extensions
 
 - **Multi-Modal Analysis**: Architecture diagrams and visual documentation
 - **Causal Inference**: Root cause analysis for knowledge drift
