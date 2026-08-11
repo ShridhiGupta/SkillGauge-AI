@@ -67,7 +67,7 @@ Vector DB + Relational DB
 - **Improve documentation accuracy** by 65%
 - **Prevent production incidents** through early detection
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 ### Frontend
 - **React + TypeScript** - Component-based dashboard architecture
@@ -149,7 +149,7 @@ Vector DB + Relational DB
 - **Industry-Specific Modules**: Healthcare, finance, manufacturing
 - **IDE Integration**: Real-time drift detection in development tools
 
-## 👥 Team Requirements
+## Team Requirements
 
 ### Core Skills Needed
 - **AI/ML Engineer**: NLP, semantic analysis, embeddings
