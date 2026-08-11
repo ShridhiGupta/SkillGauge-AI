@@ -93,7 +93,7 @@ Vector DB + Relational DB
 - **Prometheus + Grafana** - Monitoring and observability
 - **ELK Stack** - Log aggregation and analysis
 
-## 📊 Key Metrics
+## Key Metrics
 
 ### Technical Performance
 - **Drift Detection Accuracy**: >90%
@@ -133,7 +133,7 @@ Vector DB + Relational DB
 - Advanced correlation algorithms
 - Enterprise integrations (Jira, Slack, etc.)
 
-## 🎯 Competitive Advantages
+## Competitive Advantages
 
 1. **Evidence-Based Approach**: Every alert includes concrete proof
 2. **Local LLM Integration**: Privacy-focused AI processing
