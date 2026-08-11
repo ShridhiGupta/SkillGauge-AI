@@ -189,7 +189,7 @@ Vector DB + Relational DB
 3. **Implementation Planning**: Customize for your organization
 4. **Team Onboarding**: Train your engineering teams
 
-## 📧 Contact
+## Contact
 
 For technical discussions, implementation planning, or partnership opportunities:
 - **Technical Architecture**: See [ARCHITECTURE.md](./ARCHITECTURE.md)
