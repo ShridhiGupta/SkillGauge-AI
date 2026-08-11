@@ -52,7 +52,7 @@ Vector DB + Relational DB
 - **Drift Severity Score**: Risk-based alert prioritization
 - **Temporal Decay Factor**: Predictive knowledge degradation
 
-## 💡 Real-World Impact
+## Real-World Impact
 
 ### Case Study: Payment API Drift
 - **Issue**: Documentation claimed "idempotent payments" but code had race conditions
