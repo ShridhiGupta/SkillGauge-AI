@@ -2,14 +2,14 @@
 
 A production-grade system that automatically detects and explains discrepancies between engineering documentation, code implementation, and production behavior.
 
-## 🎯 Problem Statement
+## Problem Statement
 
 Engineering teams lose millions annually due to outdated documentation:
 - **45% of production incidents** trace back to documentation gaps
 - **30% developer time** wasted on misleading documentation  
 - **$2.4M average annual cost** per 100-engineer organization
 
-## 🚀 Solution Overview
+## Solution Overview
 
 The AI Knowledge Drift Detector continuously monitors the semantic alignment between:
 - **Documentation claims** (what docs say)
