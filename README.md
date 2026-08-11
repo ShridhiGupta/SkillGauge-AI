@@ -17,7 +17,7 @@ The AI Knowledge Drift Detector continuously monitors the semantic alignment bet
 - **Production behavior** (what happens in reality)
 
 
-## 🏗️ System Architecture
+## System Architecture
 
 ```
 Frontend (React + Tailwind)
@@ -37,7 +37,7 @@ Vector DB + Relational DB
 - **Temporal Analysis**: Tracks knowledge degradation over time
 - **Scoring Framework**: Quantifies knowledge reliability (0-100)
 
-## 🔬 Core Innovation
+## Core Innovation
 
 ### Drift Detection Algorithm
 1. **Claim Extraction**: NLP-based extraction of verifiable technical claims
