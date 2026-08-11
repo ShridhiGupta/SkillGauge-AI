@@ -106,14 +106,14 @@ Vector DB + Relational DB
 - **Payback Period**: 2.5 months
 - **Annual Savings**: $1.2M per 100-engineer organization
 
-## 🔐 Security & Privacy
+## Security & Privacy
 
 - **Local LLM Processing**: No data leaves organization
 - **End-to-end Encryption**: All data encrypted in transit and at rest
 - **Role-Based Access Control**: Granular permissions and audit logging
 - **SOC 2 Compliance**: Enterprise-grade security practices
 
-## 🚀 Implementation Roadmap
+## Implementation Roadmap
 
 ### Phase 1: MVP (3 months)
 - Core drift detection engine
